@@ -1,10 +1,10 @@
 Package: grub-biglinux-theme
-Version: 1.0.0-1big1
+Version: 1.0.0-1big2
 Depends:
 Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br>
 Section: admin
 Priority: optional
-Installed-Size:868
+Installed-Size:1900
 Description: BigLinux Grub theme
 
